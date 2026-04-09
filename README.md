@@ -1,3 +1,8 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{sorlros}?pet-id=1" width="1500" height="300"/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/829895026409453279/draw"
+        width="1200"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
