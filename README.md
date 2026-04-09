@@ -1,10 +1,12 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sorlros&utm_content=line">
+  <p align="center">
   <img
     src="https://render.gitanimals.org/lines/sorlros?pet-id=829916500142818607"
     width="1000"
     height="180"
   />
+  </p>
 </a>
 <p align="center">
   <img src="https://render.gitanimals.org/guilds/829895026409453279/draw?v=5" width="600" />
