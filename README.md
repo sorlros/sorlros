@@ -3,7 +3,7 @@
   <img
     src="https://render.gitanimals.org/lines/sorlros?pet-id=829917013945073625"
     width="1500"
-    height="120"
+    height="160"
   />
 </a>
   
