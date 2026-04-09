@@ -1,7 +1,7 @@
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/829895026409453279/draw"
-        width="1200"
+        width="2400"
         height="300"
         alt="gitanimals"
       />
